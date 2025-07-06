@@ -9,6 +9,8 @@
         "linking"
     ],
     "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "repositories": [
     {
         "type": "vcs",
