@@ -1,5 +1,5 @@
 {
-    "name": "seppzzz/silverstripe-elemental-linkify"
+    "name": "seppzzz/silverstripe-elemental-linkify",
     "description": "A Silverstripe module to create links to elemental elements.",
     "type": "silverstripe-vendormodule",
     "keywords": [
