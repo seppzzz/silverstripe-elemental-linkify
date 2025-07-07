@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/Zazama/silverstripe-elemental-linkify?style=flat-square)
 
 ## Introduction
-
+UPDATED TO WORK WITH SILVERSTRIPE 6 !
 silverstripe-elemental-linkify inserts a link type into TinyMCE where you can choose Elemental elements to link to.
 It also ships with a DBField that inserts a DropdownField into the CMS allowing you to choose both Page links or Elemental links.
 
