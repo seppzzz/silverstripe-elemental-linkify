@@ -13,9 +13,9 @@
 		"php": "^8.1",
 		"silverstripe/framework": "^6.0",
 		"silverstripe/cms": "^6.0",
-		"silverstripe/admin": "^6.0",
-		"silverstripe/asset-admin": "^6.0",
-		"silverstripe/htmleditor": "^6.0",
+		"silverstripe/admin": "^3.0",
+		"silverstripe/asset-admin": "^3.0",
+		"silverstripe/htmleditor": "^3.0",
 		"silverstripe/vendor-plugin": "^2.0"
 	},
 	"autoload": {
