@@ -15,7 +15,17 @@ It also ships with a DBField that inserts a DropdownField into the CMS allowing 
 ## Installation
 
 ```
-composer require zazama/silverstripe-elemental-linkify
+In (main-) composer.json :
+
+"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/seppzzz/silverstripe-elemental-linkify"
+		}
+	],
+	
+Terminal:
+composer require seppzzz/silverstripe-elemental-linkify:dev-main -W
 ```
 
 ## Usage TinyMCE
