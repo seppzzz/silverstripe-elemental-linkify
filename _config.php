@@ -6,7 +6,7 @@ use SilverStripe\Core\Manifest\ModuleLoader;
 use SilverStripe\TinyMCE\TinyMCEConfig;
 use SilverStripe\View\Parsers\ShortcodeParser;
 
-$module = ModuleLoader::inst()->getManifest()->getModule('zazama/silverstripe-elemental-linkify');
+$module = ModuleLoader::inst()->getManifest()->getModule('seppzzz/silverstripe-elemental-linkify');
 TinyMCEConfig::get('cms')->enablePlugins([
     'sslinkelemental' => $module->getResource('client/dist/js/TinyMCE_sslink-elemental.js')
 ]);
